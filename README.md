@@ -10,9 +10,9 @@ something you can actually build, and how to get an entry in before the deadline
 — plus how to get paid if it places.
 
 > **Starting from scratch? Use my sign-up link:**
-> [https://make.fun/r/3fk7ms5j](https://make.fun/r/3fk7ms5j)
+> [https://make.fun/r/dr78ckwq](https://make.fun/r/dr78ckwq)
 >
-> Referral code: `3fk7ms5j`
+> Referral code: `dr78ckwq`
 
 ## What's in this guide
 
@@ -81,7 +81,7 @@ feedback, and choose when an entry is good enough to send.
 
 ## Step 1 — Make an account
 
-1. Open [https://make.fun/r/3fk7ms5j](https://make.fun/r/3fk7ms5j) and click
+1. Open [https://make.fun/r/dr78ckwq](https://make.fun/r/dr78ckwq) and click
    **Sign in** at the top right.
 2. Sign in with GitHub, Google, Apple, Discord, or a Solana wallet. All of
    them are free, and signing in with a wallet sends no transaction.
@@ -314,7 +314,7 @@ Every reward is reviewed for at least a day before you can claim it, and only
 real new accounts that actually take part count.
 
 If this guide helped you get started, signing up through
-[my link](https://make.fun/r/3fk7ms5j) (code `3fk7ms5j`) is a nice way to say
+[my link](https://make.fun/r/dr78ckwq) (code `dr78ckwq`) is a nice way to say
 thanks.
 
 ## A first bounty in one evening
@@ -425,4 +425,4 @@ your entry, after an automatic sanctions screen.
 
 ---
 
-<sub>Written for the make.fun community. Sign up with my referral link: https://make.fun/r/3fk7ms5j · code `3fk7ms5j`</sub>
+<sub>Written for the make.fun community. Sign up with my referral link: https://make.fun/r/dr78ckwq · code `dr78ckwq`</sub>
